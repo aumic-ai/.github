@@ -1,7 +1,7 @@
 > Aakrati
 
 
-## Stage 1: Basic Text 2 Text psychological agent
+## Stage 1: Basic Text 2 Text virtual buddy agent
 - User can give text prompts 
 - Responses will be test based
 
